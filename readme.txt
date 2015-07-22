@@ -13,9 +13,7 @@ Improved taxonomy for media and attachments in versions of WordPress prior to 4.
 
 == Description ==
 
-Taxonomy In media Library provides better support for media and attachments in WordPress versions before WordPress 4.2.2+.
-
-In versions of WordPress subsequent to 4.2.2 it just registers 'media_category' and 'attachment_tag' taxonomies.
+Taxonomy In media Library provides better support for media and attachments in WordPress.
 
 == Installation ==
 
