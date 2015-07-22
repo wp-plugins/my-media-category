@@ -8,9 +8,6 @@ Stable tag: 2.6
 License: GPLv2 and (components under MIT License)
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-
-Improved taxonomy for media and attachments in versions of WordPress prior to 4.2.2
-
 == Description ==
 
 Taxonomy In media Library provides better support for media and attachments in WordPress.
