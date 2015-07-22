@@ -30,11 +30,7 @@ $query_images_args = array(
         array(
             'taxonomy' => 'YOUR TAXONOMY',
             'field' => 'slug',
-            'terms' => YOUR TERM,
-
-       ),
-    )
-);
+            'terms' => YOUR TERM)));
 
 == Frequently Asked Questions ==
 
