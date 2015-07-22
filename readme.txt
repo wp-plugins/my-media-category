@@ -38,7 +38,7 @@ $query_images_args = array(
 <p>Ans1. Now its easy please follow this link and you will found best solution http://codex.wordpress.org/Managing_Plugins</p>
 
 <h4>Que2. How to use My Media Category plugin ?</h4>
-<p>its very Easy, You can Create Multiple category and from category you get whatever you want.
+<p>its very Easy, You can Create Multiple category and from category you get whatever you want.</p>
 Enjoy!!
 
 == Screenshots ==
